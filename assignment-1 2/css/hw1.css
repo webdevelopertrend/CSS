@@ -1,0 +1,30 @@
+
+
+header{
+	background-color: #B3B3B3;
+}
+
+h1{
+	color: rgb(0,0,255);
+	font-variant: small-caps;
+	text-align: center;
+}
+
+h2{
+	color: rgb(0,0,255);
+	font-variant: small-caps;
+}
+
+section{
+	background-color: rgba(227,227,227,1);
+}
+
+a{
+	background-color: rgba(179,179,179,1); 
+    color: #FFFF00;
+}
+
+image{
+	display: none;
+}
+
